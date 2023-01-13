@@ -1,0 +1,27 @@
+#listen{
+    width: 100vw;
+    background: url(assets/images/img_listen.jpg) center/cover fixed;
+}
+
+#listen ul{
+    text-align: center;
+    padding-bottom: 60px;
+}
+#listen li{
+    padding-bottom: 25px;
+}
+#listen a{
+    font-family: Monserrat, serif;
+    font-size: calc(0.9rem + 0.8vw);
+    color: rgb(0, 0, 0);
+    text-decoration-thickness: 1px;
+    text-underline-offset: 4px;
+}
+#listen h1{
+    text-align: center;
+    font-family: Monserrat, serif;
+    font-size: calc(1.2rem + 1vw);
+    color: rgb(194, 194, 194);
+    padding-bottom: 65px;
+    padding-top: 50px;
+}

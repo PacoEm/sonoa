@@ -1,0 +1,42 @@
+#header{
+    width: 100vw;
+    height: 100vh;
+    background: url(assets/images/sonoa.jpg) center/cover no-repeat;
+}
+
+#sonoa{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    font-family: Forum, serif;
+    color: rgb(236, 236, 236);
+    font-size: 4rem;
+    font-weight: lighter;
+    text-align: center;
+    margin: auto;
+    margin-bottom: -4px;
+    padding-top: 10px;
+    list-style: none;
+}
+nav{
+    margin: auto;
+}
+nav ul{
+    display: flex;
+    justify-content: space-between;
+    list-style: none;
+}
+nav ul li{
+    text-shadow: 2px 2px black;
+    font-family: Monserrat, serif;
+}
+#sonoa, nav{
+    width: 50vw;
+    min-width: 270px;
+    max-width: 420px;
+}
+#header a{
+    text-decoration: none;
+    color: rgb(236, 236, 236);
+
+}

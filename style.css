@@ -1,0 +1,21 @@
+@font-face {
+    font-family: Forum;
+    src: url(assets/fonts/Forum/Forum-Regular.ttf);
+}
+@font-face {
+    font-family: Monserrat;
+    src: url(assets/fonts/Montserrat_Alternates/MontserratAlternates-Light.ttf);
+}
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: 0;
+}
+html{
+    scroll-behavior: smooth;
+
+}
+body{
+    background: #000;
+}

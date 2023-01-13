@@ -1,0 +1,35 @@
+/* CONTACT ---------------- */
+#contact{
+    width: 100vw;
+    background: #000;
+}
+#contact_container{
+    width: 35%;
+    padding-top: 50px;
+    padding-bottom: 10px;
+    margin: auto;
+    text-align: center;
+}
+
+.contact{
+    margin-bottom: 50px;
+}
+.typocontact{
+    padding-bottom: 10px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 1.3rem;
+    color: rgb(255, 183, 101);
+}
+.liencontact{
+    padding-bottom: 5px;
+
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 1.2rem;
+    font-weight: lighter;
+    color: white;
+
+    letter-spacing: 1px;
+    text-decoration: underline;
+    text-underline-offset: 0.3rem;
+    text-decoration-thickness: 1px;
+}
