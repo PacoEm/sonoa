@@ -26,11 +26,11 @@
     font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     font-size: calc(0.7rem + 1vw);
     font-weight: lighter;
-    color: rgb(216, 216, 216);
+    color: rgb(246, 246, 246);
 
     letter-spacing: 1px;
     text-decoration: underline;
     text-underline-offset: 0.3rem;
     text-decoration-thickness: 1px;
-    text-decoration-color: rgb(184, 184, 184);
+    text-decoration-color: rgb(174, 174, 174);
 }
