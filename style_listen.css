@@ -1,6 +1,6 @@
 #listen{
     width: 100vw;
-    background: url(assets/images/img_listen.jpg) center/cover fixed;
+    background: url(assets/images/img_listen.jpg) center/cover fixed no-repeat;
 }
 
 #listen ul{
@@ -9,6 +9,7 @@
 }
 #listen li{
     padding-bottom: 25px;
+    list-style: none;
 }
 #listen a{
     font-family: Monserrat, serif;

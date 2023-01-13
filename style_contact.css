@@ -4,7 +4,7 @@
     background: #000;
 }
 #contact_container{
-    width: 35%;
+    width: 100%;
     padding-top: 50px;
     padding-bottom: 10px;
     margin: auto;
@@ -17,16 +17,16 @@
 .typocontact{
     padding-bottom: 10px;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-    font-size: 1.3rem;
+    font-size: calc(1.1rem + 0.8vw);
     color: rgb(255, 183, 101);
 }
 .liencontact{
     padding-bottom: 5px;
 
     font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-    font-size: 1.2rem;
+    font-size: calc(0.8rem + 1vw);
     font-weight: lighter;
-    color: white;
+    color: rgb(202, 202, 202);
 
     letter-spacing: 1px;
     text-decoration: underline;
